@@ -152,9 +152,19 @@ button:hover{
         top: 40%;
     }
    .content h1{
-   font-size: 50px;
-   
+   font-size: 30px;
+   margin-top: 80px;
    }
+   /* .content h1{
+    font-size: 70px;
+    margin-top: 80px;
+    margin-bottom: 10px;
+    } */
+    .content h3 {
+        margin: 10px auto;
+        font-weight: 100;
+        /* line-height: 25px; */
+    }
 }
 
 /* .....................MEDIA QUERY ENDS.......................................... */
