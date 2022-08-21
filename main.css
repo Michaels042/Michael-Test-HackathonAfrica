@@ -133,7 +133,7 @@ button:hover{
         background-image: linear-gradient(rgba(0,0,0,0.97),rgba(0,0,0,0.97));
         top: 70px;
         left: -100%;
-        text-align: left;
+        text-align: center;
         transition: all 0.5s;
         z-index: 100;
     }
