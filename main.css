@@ -142,6 +142,8 @@ button:hover{
         margin: 50px 185px!important;
         line-height: 30px;
         flex-direction: column!important;
+        text-align: center;
+
     }
    
     nav ul li:hover::after {
